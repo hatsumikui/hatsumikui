@@ -1,6 +1,6 @@
 -- Language: PT/BR
 
-💌 Olá! Me chamo Trícia (@hatsumikui), no momento estou aprendendo Next.js e Dart!! 👾
+💌 Olá! Me chamo Trícia, no momento estou aprendendo Next.js e Dart!! 👾
 
 💌 Eu gosto de animais fofos, tecnologia e jogos 🦭
 
@@ -12,7 +12,7 @@
 
 -- Language: EN
 
-💌 Hello! My name is Trícia (@hatsumikui), I'm currently learning Next.js and Dart!! 👾
+💌 Hello! My name is Trícia, I'm currently learning Next.js and Dart!! 👾
 
 💌 I like cute animals, technology and games   
 
